@@ -29,7 +29,7 @@ A simple, clean, and professional personal portfolio website for **Phanindra Sur
 - LinkedIn: [suryaprabhas](https://linkedin.com/in/suryaprabhas)  
 - GitHub: [suryaprabhaz](https://github.com/suryaprabhaz)  
 - Email: suryaprabhas83@gmail.com  
-- WhatsApp: +91 78931 36187  
+- WhatsApp: +91 78931 36***  
 - Telegram: [suryaprabhas](https://t.me/suryaprabhas)  
 
 ---
